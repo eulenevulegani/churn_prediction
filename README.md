@@ -1,4 +1,4 @@
-# churn_prediction
+# Churn Prediction
 In this project, I go through the process of building a customer churn prediction system using Python, Scikit-Learn, and Tkinter for a graphical user interface (GUI). Customer churn prediction is a valuable tool for businesses to identify customers who are likely to leave and take proactive measures to retain them.
 
 ## Project Overview
